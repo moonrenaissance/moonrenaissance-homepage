@@ -1,7 +1,7 @@
 {
   "name": "moonrenaissance-resume",
   "version": "1.0.0",
-  "description": "Daniel's website",
+  "description": "Daniel&#39;s website",
   "main": "index.js",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",

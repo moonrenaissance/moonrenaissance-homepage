@@ -36,7 +36,7 @@ const Home = () => (
             <Box display={{md: 'flex'}}>
                 <Box flexGrow={1}>
                     <Heading as="h2" variant="page-title">
-                        Daniel 'Moonlight' Clover
+                        Daniel &#39;Moonlight&#39; Clover
                     </Heading>
                     <p>
                         (Artist / Developer)
@@ -73,11 +73,11 @@ const Home = () => (
                 At a very early age, I got acquainted with videogames, 
                 loved hanging out in various classic games of that time 
                 (Sonic, Crash Bandicoot, Warcraft and many others), grew up 
-                on Sega, PS1, Spider-Man '94, Back to the Future and Harry Potter.
+                on Sega, PS1, Spider-Man &#39;94, Back to the Future and Harry Potter.
                 In the future, this influenced my interests, I started studying cinema,
                 watched and read a lot of different video essays/essays. A little later
                 I remembered about my passion in the face of videogames and
-                I wanted to learn more about how they are developed. That's how I 
+                I wanted to learn more about how they are developed. That&#39;s how I 
                 got to know programming. In the process of learning, I realized that 
                 programming is an incredibly big subject with different branches, paths, 
                 technologies. And to this day I continue to learn all this. Who knows, 

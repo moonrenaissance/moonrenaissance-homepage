@@ -99,16 +99,16 @@ const NavigationBar = props => {
                             <MenuButton as={IconButton} icon={<HamburgerIcon/>} 
                             variant="outline" aria-label="Options"/>
                             <MenuList>
-                                    <MenuItem as={Link} href="/">
+                                    <MenuItem as={MenuLink} href="/">
                                         About
                                     </MenuItem>
-                                    <MenuItem as={Link} href="/works">
+                                    <MenuItem as={MenuLink} href="/works">
                                         Works
                                     </MenuItem>
-                                    <MenuItem as={Link} href="/creative-stuff">
+                                    <MenuItem as={MenuLink} href="/creative-stuff">
                                         Creative Stuff
                                     </MenuItem>
-                                    <MenuItem as={Link} href="https://github.com/moonrenaissance">
+                                    <MenuItem as={MenuLink} href="https://github.com/moonrenaissance">
                                         GitHub
                                     </MenuItem>
                             </MenuList>
