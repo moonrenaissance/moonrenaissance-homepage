@@ -1,4 +1,4 @@
-const MoonPrintIcon = props => {
+const MoonPrintIcon = () => {
     return (
         <svg 
         viewBox="0 0 32 32" 

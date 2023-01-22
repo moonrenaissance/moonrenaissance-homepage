@@ -36,7 +36,7 @@ const LinkItem = ({href, path, target, children, ...props}) => {
     )
 }
  
-const MenuLink = forwardRef((props, ref) => (
+export const MenuLink = forwardRef((props, ref) => (
     <Link ref={ref} as={NextLink} {...props}/>
 ))
 
