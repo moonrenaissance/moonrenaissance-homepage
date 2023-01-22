@@ -35,8 +35,9 @@ const LinkItem = ({href, path, target, children, ...props}) => {
             </Link>
     )
 }
- 
-export const MenuLink = forwardRef((props, ref) => (
+
+//Eslint-disable-next-line react/display-name
+const MenuLink = forwardRef((props, ref) => (
     <Link ref={ref} as={NextLink} {...props}/>
 ))
 
