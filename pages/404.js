@@ -3,7 +3,7 @@ import {Box,
         Heading, 
         Text,
         Container, 
-        Devider, 
+        Divider, 
         Button} from '@chakra-ui/react'
 
 const NotFound = () => {
@@ -11,7 +11,7 @@ const NotFound = () => {
         <Container>
             <Heading as="h1" Text="Not found"/>
             <Text>The page you&#39;re looking for was not found.</Text>
-            <Devider my={6} />
+            <Divider my={6} />
             <Box my={6} align="center">
                 <Button as={NextLink} href="/" colorScheme="teal">
                     Return to Home
