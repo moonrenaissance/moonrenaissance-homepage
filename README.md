@@ -1,5 +1,5 @@
 # moonrenaissance-homepage
-[Daniel Clover - Homepage](https://moonrenaissance-homepage.vercel.app/)
+[Daniel Clover - Homepage](https://moonrenaissance-homepage.vercel.app/) ||
 This is literally one of my first projects and I had so much fun creating it, I also learned a lot in the process.
 
 ## Stack/What I learned and used
