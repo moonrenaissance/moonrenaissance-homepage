@@ -4,8 +4,8 @@ This is literally one of my first projects and I had so much fun creating it, I 
 
 ## Stack/What I learned and used
 - [Node.js](https://nodejs.org/en/about/) - A back-end JavaScript runtime environment
-- [React](https://reactjs.org/) - A free and open-source front-end JavaScript library
 - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
+- [React](https://reactjs.org/) - A free and open-source front-end JavaScript library
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
 - [Framer Motion](https://www.framer.com/motion/) - An animation library for React
 - SVG - An XML-based vector image format
